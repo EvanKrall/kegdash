@@ -81,11 +81,11 @@ $(document).ready(function () {
 					"abv": 0.0,
 					"desc" : "Terrible. Just... don't.",
 					"baUrl": "http://beeradvocate.com/beer/profile/29/1320/"
-				}
+				},
 				"kegStatus" : "requested",
 				"numLikes" : 8234
 			}
-		],
+		]
 	};
 
 });
